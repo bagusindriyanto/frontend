@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage":"http://192.168.1.14:8080/kanban3-app",
+  "homepage": "http://localhost:3001/kanban3-app",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
